@@ -1,1 +1,1 @@
-# sansl-cek-l-s-uygulamas-
+# sansli cekilis uygulamasi
